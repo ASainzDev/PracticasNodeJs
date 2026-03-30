@@ -1,0 +1,13 @@
+{
+  "name": "primerapruebaserversencillo",
+  "version": "1.0.0",
+  "description": "Prueba básica siguiendo la documentación propia de node",
+  "license": "ISC",
+  "author": "alex",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
