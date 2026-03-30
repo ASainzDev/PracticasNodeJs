@@ -1,0 +1,13 @@
+{
+  "name": "segundapruebaserversencillo",
+  "version": "1.0.0",
+  "description": "Segunda prueba. Vamos a probar algo de validaciones",
+  "license": "ISC",
+  "author": "alex",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
